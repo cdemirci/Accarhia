@@ -42,8 +42,11 @@
     }
   ],
   "socket": false,
+  "manifest": "https://foundry.5e.tools/plutonium/cor-cos/world.json",
+  "download": "https://foundry.5e.tools/plutonium/cor-cos/cor-cos.zip",
   "protected": false,
   "background": "background.jpg",
+  "coreVersion": "10.291",
   "nextSession": null,
   "resetKeys": false,
   "safeMode": false,
