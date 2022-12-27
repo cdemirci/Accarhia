@@ -1,0 +1,83 @@
+{"name":"Tsolenka Pass","type":"JournalEntry","sort":5800000,"flags":{},"parent":"IgqDjib8exODpASY","_id":"2SPA3ux5AboGC5br"}
+{"name":"Spells","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"3JyEUBFIXRu0t0Mk"}
+{"name":"Argynvostholt Third Floor & Rooftop Beacon","type":"JournalEntry","sort":6100000,"flags":{},"parent":"IgqDjib8exODpASY","_id":"5KsBjiSUw0l82wyv"}
+{"name":"Player Characters","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#b08717","flags":{},"_id":"6B8kae5oD9pOKu7X"}
+{"_id":"6pj7FSnCfGUTc0o7","name":"Ravenloft Tables","type":"RollTable","sort":4900000,"flags":{},"parent":null,"sorting":"m","color":""}
+{"_id":"Aosdk3BuSFWsAtHz","name":"Barovia Travel Tables","type":"RollTable","sort":5300000,"flags":{},"parent":null,"sorting":"m","color":""}
+{"name":"Ravenloft Map 3","type":"JournalEntry","sort":5300000,"flags":{},"parent":"IgqDjib8exODpASY","_id":"BdENqbnXBP2OOdTG"}
+{"name":"Church","type":"JournalEntry","sort":7300000,"flags":{},"parent":"IgqDjib8exODpASY","sorting":"a","color":"","_id":"E7QSx0cnulI5ZRs7"}
+{"name":"Teleport Points","type":"JournalEntry","sort":4700000,"flags":{},"parent":null,"_id":"IgqDjib8exODpASY"}
+{"_id":"M2E1NTg1NWIzOTg2","name":"Appendix E: The Tarokka Deck","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3100000}
+{"_id":"M2VjNTdhNTRjN2I5","name":"Text Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NTljMzBjYzM4ZTE5","sort":4100000}
+{"_id":"MCWbIHPIndAffjda","name":"Loot","type":"Actor","parent":null,"sorting":"a","sort":3500000,"color":"#43892a","flags":{}}
+{"_id":"MGIxYWNmODQyODNm","name":"Epilogue","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2700000}
+{"_id":"MTRmMjQ5OTQ0M2Zj","name":"Chapter 9: Tsolenka Pass","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1800000}
+{"_id":"MWE5YjQ5YWQ2Yjc4","name":"Chapter 7: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NGIyMzUwNGFkZmEz","sort":1500000}
+{"_id":"MjM5MjEzZGY1NWFk","name":"Chapter 8: The Village of Krezk","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1600000}
+{"_id":"MmE2NDY0YzgyZjAw","name":"Chapter 1: Into the Mists","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":100000}
+{"_id":"MmIyMGU3N2NiYjhi","name":"Named NPC Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NTljMzBjYzM4ZTE5","sort":4300000}
+{"_id":"MmViZWExMTdjYjRm","name":"Chapter 2: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NTAzZjU3YThiZjlh","sort":500000}
+{"_id":"MzQwZWVlMDE5MGQ5","name":"Chapter 6: Old Bonegrinder","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1200000}
+{"_id":"NDVkYTBkOTg4Y2Jj","name":"Chapter 14: Yester Hill","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2500000}
+{"_id":"NDhiMDk3OWE5OGEy","name":"Chapter 13: The Amber Temple","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2400000}
+{"_id":"NGIyMzUwNGFkZmEz","name":"Chapter 7: Argynvostholt","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1400000}
+{"_id":"NTAzZjU3YThiZjlh","name":"Chapter 2: The Lands of Barovia","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":400000}
+{"_id":"NTljMzBjYzM4ZTE5","name":"Player Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":4000000}
+{"_id":"NWUwYmM5ZTNjNWNm","name":"Chapter 8: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MjM5MjEzZGY1NWFk","sort":1700000}
+{"_id":"NjExMjdkMTQwNjVh","name":"Decks","flags":{},"type":"Item","color":"","parent":null,"sort":4900000}
+{"_id":"NjIyMjRiZTNkYTFj","name":"Named NPCs","type":"Actor","parent":null,"sorting":"a","sort":3300000,"color":"#915959","flags":{}}
+{"_id":"Njk5YWJjMDVmMjIw","name":"Appendix B: Death House","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2900000}
+{"_id":"NmYwZmNlMThlZmIz","name":"Traps and Hazards","flags":{},"type":"JournalEntry","color":"","parent":"ZTU0NTQxMTA4NjVl","sort":4600000}
+{"_id":"NzRkMGRmMWI3Y2Mz","name":"Tarokka: Complete Deck","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":5000000}
+{"_id":"NzU3YmZmNTk4NTg2","name":"Chapter 5: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"YzNkYWU4Y2FjMzQx","sort":1100000}
+{"_id":"NzZlNDM4YTlkYmIx","name":"Chapter 4: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"ODdmOTE4YmY4NmFl","sort":900000}
+{"name":"Amber Temple Lower Level","type":"JournalEntry","sort":7800000,"flags":{},"parent":"IgqDjib8exODpASY","sorting":"a","color":"","_id":"O0o8lDJ2Qo9wieOt"}
+{"_id":"ODMyMjRkYmI3NGRj","name":"Decks","flags":{},"type":"RollTable","color":"","parent":null,"sort":4800000}
+{"_id":"ODZmNDNhYjYzM2Vm","name":"Chapter 11: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"YWZlYzA4NGI2MDFl","sort":2200000}
+{"_id":"ODc0NzYwN2Y4MWQw","name":"Appendix A: Character Options","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2800000}
+{"_id":"ODdmOTE4YmY4NmFl","name":"Chapter 4: Castle Ravenloft","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":800000}
+{"_id":"ODhhODBhYmM2MTBm","name":"Chapter 10: The Ruins of Berez","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2000000}
+{"_id":"ODkxNDA1ZDA4MTc2","name":"Alternative Rewards","flags":{},"type":"JournalEntry","color":"","parent":"ZTU0NTQxMTA4NjVl","sort":4500000}
+{"_id":"OGIyMmM4ZmI0M2Jm","name":"Monster Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NTljMzBjYzM4ZTE5","sort":4200000}
+{"_id":"OTBkMjNjMmE2MGI4","name":"Chapter 1: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MmE2NDY0YzgyZjAw","sort":300000}
+{"_id":"OTMxNTFkOTdhYTI5","name":"Monsters","type":"Actor","parent":null,"sorting":"a","sort":3200000,"color":"#921616","flags":{}}
+{"_id":"OTQ1MTc4ZDEyN2Ji","name":"Chapter 3: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"ZjhlZTc3MzhhYWNj","sort":700000}
+{"_id":"OTZiNTJjOTQ5MDA2","name":"Tarokka: Common Deck","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":5100000}
+{"_id":"OTlmMmVhOWRlNzM0","name":"Chapter 6: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MzQwZWVlMDE5MGQ5","sort":1300000}
+{"name":"Burgomaster's Mansion","type":"JournalEntry","sort":7700000,"flags":{},"parent":"IgqDjib8exODpASY","sorting":"a","color":"","_id":"VPH5zzu17zxcsoXS"}
+{"_id":"XMawyKWfRSQB3NN0","name":"Adventuring Gear","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#6874d4","flags":{}}
+{"_id":"XkmkOYfriQ7ioGem","name":"Market","type":"Actor","parent":null,"sorting":"a","sort":3600000,"color":"#729d7f","flags":{}}
+{"name":"Death House","type":"JournalEntry","sort":7600000,"flags":{},"parent":"IgqDjib8exODpASY","sorting":"a","color":"","_id":"Xlz49SbE49NvQdJp"}
+{"_id":"Y2NmNWRhNTA3OWJk","name":"Deck of Illusions","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":5300000}
+{"name":"Vallaki Tables","type":"RollTable","sort":5100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"YRVvr7371Bqk5Awc"}
+{"_id":"YTAwNWUxYTM3OTMw","name":"Monsters","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3200000}
+{"_id":"YTczMjZhMjBmOWYw","name":"Magic Items","flags":{},"type":"Item","color":"","parent":null,"sort":3700000}
+{"_id":"YTlhNDg2NjRjY2Vk","name":"Adventure Hooks","flags":{},"type":"JournalEntry","color":"","parent":"MmE2NDY0YzgyZjAw","sort":200000}
+{"_id":"YWFmNWNmZWU2ZTk3","name":"Playing Cards","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":5400000}
+{"_id":"YWQwODllN2MyN2Fk","name":"Magic Items","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3700000}
+{"_id":"YWZjMWI0NDRiNTU4","name":"Chapter 15: Werewolf Den","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2600000}
+{"_id":"YWZlYzA4NGI2MDFl","name":"Chapter 11: Van Richten's Tower","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2100000}
+{"_id":"YjFlYzQ5ZjE5NWRi","name":"Chapter 12: The Wizard of Wines","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2300000}
+{"_id":"YmQ4MGZiNDM5ZTlh","name":"Appendix B: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"Njk5YWJjMDVmMjIw","sort":3000000}
+{"name":"Werewolf Den","type":"JournalEntry","sort":5400000,"flags":{},"parent":"IgqDjib8exODpASY","_id":"YrhfctEYMDLeuuUM"}
+{"_id":"YzNkYWU4Y2FjMzQx","name":"Chapter 5: The Town of Vallaki","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1000000}
+{"_id":"ZDE0NDhlMjdjNjk5","name":"Tarokka: High Deck","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":5200000}
+{"_id":"ZGY5ZTY2MjM2ZTA5","name":"Chapter 9: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MTRmMjQ5OTQ0M2Zj","sort":1900000}
+{"_id":"ZTU0NTQxMTA4NjVl","name":"Supplemental Material","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":4400000}
+{"_id":"ZWM1MGI0ZTFkMDQy","name":"START HERE","type":"JournalEntry","sort":0,"flags":{},"parent":null,"color":""}
+{"_id":"ZWRjYWJlYzVjOWI0","name":"Strahd's Brides","flags":{},"type":"Actor","color":"","parent":"NjIyMjRiZTNkYTFj","sort":3600000}
+{"_id":"ZjVhNmZmZTI3YjUz","name":"Mongrelfolk","flags":{},"type":"Actor","color":"","parent":"NjIyMjRiZTNkYTFj","sort":3500000}
+{"_id":"ZjhlZTc3MzhhYWNj","name":"Chapter 3: The Village of Barovia","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":600000}
+{"_id":"ZmZjMTc3ZDBiYTdj","name":"Potions","flags":{},"type":"JournalEntry","color":"","parent":"YWQwODllN2MyN2Fk","sort":3800000}
+{"name":"_simple_calendar_notes_directory","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{"foundryvtt-simple-calendar":{"root":true}},"_id":"ZozQfjKXr29W3mab"}
+{"name":"Ravenloft Map 7-10","type":"JournalEntry","sort":5200000,"flags":{},"parent":"IgqDjib8exODpASY","_id":"c0MinwqNNQot37z7"}
+{"name":"Ravenloft Map 6","type":"JournalEntry","sort":7200000,"flags":{},"parent":"IgqDjib8exODpASY","_id":"c0j5M27WnDgKEUcU"}
+{"name":"Misc Tables","type":"RollTable","sort":5200000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"chbkFoA7ZjbhjOXI"}
+{"name":"Old Bonegrinder","type":"JournalEntry","sort":6300000,"flags":{},"parent":"IgqDjib8exODpASY","_id":"dExkSRHd8qPBs6Kc"}
+{"_id":"fe1Ftq5vInj5SQS1","name":"Unbound NPCs","type":"Actor","parent":null,"sorting":"a","sort":3400000,"color":"#5875df","flags":{}}
+{"name":"Village of Barovia Tables","type":"RollTable","sort":5000000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"gJLIr71eY0CNwgUo"}
+{"name":"Ravenloft Map 5","type":"JournalEntry","sort":7100000,"flags":{},"parent":"IgqDjib8exODpASY","_id":"lkkhcBrAHwGN6hNP"}
+{"_id":"mJXBX64BtSQlf6le","name":"Ravenloft Map 12","type":"JournalEntry","sort":7400000,"flags":{},"parent":"IgqDjib8exODpASY","sorting":"a","color":""}
+{"name":"Van Richten's Tower","type":"JournalEntry","sort":5700000,"flags":{},"parent":"IgqDjib8exODpASY","_id":"mpWjcM8NZi8Krz3Z"}
+{"name":"Ravenloft Map 2","type":"JournalEntry","sort":5100000,"flags":{},"parent":"IgqDjib8exODpASY","_id":"oOEVFwFZLlZkvjk3"}
+{"name":"Blue Water Inn","type":"JournalEntry","sort":7500000,"flags":{},"parent":"IgqDjib8exODpASY","sorting":"a","color":"","_id":"plgctpw0CiIP5Fdh"}

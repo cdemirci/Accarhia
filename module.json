@@ -1,0 +1,133 @@
+{
+  "name": "cor-cos",
+  "title": "Curse of Strahd",
+  "description": "<p>Unravel the mysteries of Ravenloft in this dread adventure for the world’s greatest roleplaying game</p>\n<p> </p>\n<p>Under raging storm clouds, the vampire Count Strahd von Zarovich stands silhouetted against the ancient walls of Castle Ravenloft. Rumbling thunder pounds the castle spires. The wind’s howling increases as he turns his gaze down toward the village of Barovia. A lightning flash rips through the darkness, but Strahd is gone. Only the howling of the wind fills the midnight air. The master of Castle Ravenloft is having guests for dinner—and you are invited.</p>\n<p> </p>\n<p>• A fantasy-horror adventure for characters levels 1-10, Curse of Strahd provides everything a Dungeon Master needs to create an exciting and memorable play experience.</p>\n<p>• Fans of the Dungeons &amp; Dragons Roleplaying Game can have additional adventures in Ravenloft by participating in the D&amp;D Adventurers League organized play program.</p>\n<p>• Included: a 54-card deck by Gale Force Nine representing the Tarokka cards, used by the fortune-teller Madam Eva in the adventure to randomly determine key aspects of the adventure. Also available from GF9 is a Curse of Strahd Dungeon Master's Screen.</p>\n<p>• Written in consultation with Tracy Hickman and Laura Hickman, creators of the original Ravenloft adventure.</p>\n<p> </p>\n<p>Product Information</p>\n<p>System: D&amp;D 5E (Ravenloft)</p>\n<p>Starting Level: Low (1-10)</p>\n<p>Length: Long Campaign</p>\n<p>Installation: World</p>\n<p> </p>\n<p>Curse of Strahd is produced by Wizards of the Coast. It was written by Chris Perkins, edited by Kim Mohan and Jeremy Crawford, and art directed by Kate Irwin. The adventure incorporates material from the original Ravenloft adventure as well as new story content created by Tracy and Laura Hickman, Chris Perkins, Adam Lee, Richard Whitters, and Jeremy Crawford.</p>\n<p> </p>\n<p><strong>DISCLAIMER:</strong> The use of this is meant for your personal use, and only if you legally possess such in accordance with your local laws.</p>",
+  "version": "0.3.4",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "esmodules": [],
+  "styles": [],
+  "manifestPlusVersion": "1.1.0",
+  "allowBugReporter": false,
+  "media": [
+    {
+      "type": "cover",
+      "url": "https://foundry.5e.tools/plutonium/cor-cos/cover.webp"
+    }
+  ],
+  "packs": [
+    {
+      "name": "journal",
+      "label": "Handouts (Curse of Strahd)",
+      "path": "packs/journal.db",
+      "module": "cor-cos",
+      "system": "dnd5e",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "actors",
+      "label": "Actors (Curse of Strahd)",
+      "path": "packs/actors.db",
+      "module": "cor-cos",
+      "system": "dnd5e",
+      "entity": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "Items (Curse of Strahd)",
+      "path": "packs/items.db",
+      "module": "cor-cos",
+      "system": "dnd5e",
+      "entity": "Item"
+    },
+    {
+    "name": "decks",
+    "label": "Decks",
+    "path": "packs/decks.db",
+    "module": "cor-cos",
+      "system": "dnd5e",
+    "entity": "RollTable"
+    },
+      {
+    "name": "cards",
+      "label": "Cards",
+      "path": "packs/cards.db",
+      "module": "cor-cos",
+      "system": "dnd5e",
+      "entity": "Item"
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes (Curse of Strahd)",
+      "path": "packs/scenes.db",
+      "module": "cor-cos",
+      "system": "dnd5e",
+      "entity": "Scene"
+    },
+    {
+      "name": "tables",
+      "label": "Rollable Tables (Curse of Strahd)",
+      "path": "packs/tables.db",
+      "module": "cor-cos",
+      "system": "dnd5e",
+      "entity": "RollTable"
+    }
+  ],
+  "languages": [],
+  "authors": [
+    "WotC",
+    "Foundry Worlds Creator Team"
+  ],
+  "keywords": [
+    "ravenloft",
+    "horror",
+    "gothic",
+    "vampire"
+  ],
+  "socket": false,
+  "url": "https://dnd.wizards.com/products/tabletop-games/rpg-products/curse-strahd",
+  "manifest": "https://foundry.5e.tools/plutonium/cor-cos/module.json",
+  "download": "https://foundry.5e.tools/plutonium/cor-cos/cor-cos.zip",
+  "license": "DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, the dragon ampersand, Player's Handbook, Monster Manual, Dungeon Master's Guide, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or art work contained herein is prohibited without the express written permission of Wizards of the Coast.",
+  "readme": "https://foundry.5e.tools/plutonium/cor-cos/README.md",
+  "bugs": "https://discord.gg/jWAY3dubSu",
+  "changelog": "https://foundry.5e.tools/plutonium/cor-cos/CHANGELOG.md",
+  "dependencies": [
+    {
+      "name": "plutonium",
+      "manifest": "https://get.5e.tools/plutonium/module.json",
+      "version": "1.27.1",
+      "author": "Giddy"
+    },
+    {
+      "name": "multilevel-tokens",
+      "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json",
+      "version": "1.4.1",
+      "author": "grandseiken"
+    },
+    {
+      "name": "fxmaster",
+      "manifest": "https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster/-/raw/master/module.json",
+      "version": "1.0.3",
+      "author": "U~man"
+    },
+    {
+      "name": "token-hud-wildcard",
+      "manifest": "https://raw.githubusercontent.com/javieros105/FVTT-TokenHUDWildcard/master/token-hud-wildcard/module.json",
+      "version": "1.2.0",
+      "author": "Javieros"
+    }
+  ],
+  "id": "cor-cos",
+  "system": "dnd5e",
+  "unavailable": false,
+  "background": "worlds/cor-cos/scenes/backgrounds/Start.webp",
+  "nextSession": "",
+  "availability": 0,
+  "systems": [
+    "dnd5e"
+  ],
+  "minimumSystemVersion": "1.2.4",
+  "compatibleSystemVersion": "1.2.4",
+  "coreVersion": "0.7.9"
+}
